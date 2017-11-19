@@ -7,8 +7,8 @@ import com.view.au.UserView;
  * */
 public class Auction {
     public static void main(String[] args) {
-        UserView userView = new UserView();
-        userView.UserView();
+        UserView run = new UserView();
+        run.userView();
 
     }
 }
